@@ -23,7 +23,7 @@ public class oppgave3 {
         } while (a < 0 || a > 10000);
 
 
-        String utTxt = "Dato = " + d + "." + m + "."+ a;
+        String utTxt = "Lol = " + d + "." + m + "."+ a;
         showMessageDialog(null, utTxt);
 
 
